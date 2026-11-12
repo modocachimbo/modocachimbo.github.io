@@ -1,8 +1,11 @@
 [{
-      "relation": ["delegate_permission/common.handle_all_urls"],
-      "target": {
-        "namespace": "android_app",
-        "package_name": "com.modocachimbo.app",
-        "sha256_cert_fingerprints": ["C3:32:F5:9D:F0:87:EE:3E:BB:49:98:7D:A7:4E:7B:65:7B:07:E7:D4:10:5D:3D:83:22:32:FE:A5:85:DE:BE:6C"]
-      }
-    }]
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.modocachimbo.app",
+    "sha256_cert_fingerprints": [
+      "2A:52:73:7D:0F:50:3F:8E:E8:12:5D:82:CF:AF:EB:80:2A:55:2D:BB:48:88:AC:45:F7:8D:63:23:7F:D5:9B:8D",
+      "C3:32:F5:9D:F0:87:EE:3E:BB:49:98:7D:A7:4E:7B:65:7B:07:E7:D4:10:5D:3D:83:22:32:FE:A5:85:DE:BE:6C"
+    ]
+  }
+}]
